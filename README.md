@@ -1,4 +1,4 @@
-# Desafio_RelatorioVendaseLucrosDataAnalytic
+# Relatório Vendas e Lucros com Data Analytics com Power BI
 
 Este projeto de Data Analytics com Power BI tem como objetivo analisar e visualizar dados de vendas de produtos em diferentes países. O relatório apresenta uma variedade de gráficos que oferecem uma compreensão detalhada dos principais produtos, dos países com as maiores vendas e lucros, além de tendências de vendas ao longo do tempo.
 
